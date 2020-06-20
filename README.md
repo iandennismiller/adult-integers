@@ -1,6 +1,6 @@
 # adult-integers
 
-Adult integers are those that colloquially refer to adult themes.
+Adult integers colloquially refer to adult themes.
 
 ```{python}
 import random
