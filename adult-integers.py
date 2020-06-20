@@ -1,12 +1,5 @@
-# adult-integers
+#!/usr/bin/env python
 
-Adult integers colloquially refer to adult themes.
-
-## Python Code
-
-[Download the script](adult-integers.py)
-
-```{python}
 import random
 
 adult_integer_list = [
@@ -23,12 +16,3 @@ adult_integer_list = [
 
 if random.randint(0, 999) in adult_integer_list:
   print("That's an adult integer!")
-```
- 
-## A picture for Twitter
-
-![Adult Integers](pic-for-twitter.png)
-
-## References
-
-- https://www.adl.org/hate-symbols
